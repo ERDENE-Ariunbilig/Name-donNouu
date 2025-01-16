@@ -2,11 +2,11 @@
 const users = {
     'jolie': {
         name: 'Jolie',
-        message: `I'm a better chef than uuu 🧑‍🍳 f uu 👆`
+        message: `My dearest Jolie (UNEN UG HATUU) am better chef 😘`
     },
     'Jolie': {
         name: 'Jolie',
-        message: `I'm a better chef than uuu 🧑‍🍳 f uu 👆`
+        message: `My dearest Jolie (UNEN UG HATUU) am better chef 😘`
     }
 };
 
